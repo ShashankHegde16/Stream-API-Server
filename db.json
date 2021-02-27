@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Dota2",
+      "description": "here is a dota2",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "WTF",
+      "userId": "117806941041448485799",
+      "id": 3
+    },
+    {
+      "title": "Im Dancing",
+      "description": "Hello happy weekend",
+      "userId": "109658074423357723636",
+      "id": 4
+    }
+  ]
+}
